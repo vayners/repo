@@ -1,2 +1,2 @@
 # repo
-My digital 'junk' drawer for all things code!
+A digital drawer for all things code!
